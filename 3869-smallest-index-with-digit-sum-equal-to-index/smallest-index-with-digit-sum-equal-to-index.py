@@ -4,6 +4,8 @@ class Solution:
             n = nums[i]
             digit_sum = 0
 
+            #ABCD EFG
+
             while n > 0:
                 digit_sum += n % 10
                 n //= 10
