@@ -2,6 +2,8 @@ class Solution:
     def createGrid(self, m: int, n: int) -> list[str]:
         grid = []
 
+        #abc
+
         for i in range(m):
             row = []
 
