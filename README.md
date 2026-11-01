@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prateekanhaiya/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/prateekanhaiya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 ## Dynamic Programming
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/prateekanhaiya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/prateekanhaiya/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
