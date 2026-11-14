@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/prateekanhaiya/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/prateekanhaiya/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prateekanhaiya/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prateekanhaiya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prateekanhaiya/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3665-twisted-mirror-path-count](https://github.com/prateekanhaiya/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/prateekanhaiya/LeetCode/tree/master/3693-climbing-stairs-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/prateekanhaiya/LeetCode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prateekanhaiya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prateekanhaiya/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Depth-First Search
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/prateekanhaiya/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/prateekanhaiya/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
